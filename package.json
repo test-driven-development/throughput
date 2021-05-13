@@ -26,5 +26,8 @@
     "start": "grunt serve",
     "deploy": "rm -rf dist && grunt deploy",
     "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt-cli": "^1.4.2"
   }
 }

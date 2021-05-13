@@ -17,3 +17,5 @@ unusual-spending-vendor/
 /*.iml
 /test-helper-mongo.js
 /slides/list.json
+yarn.lock
+.DS_Store
